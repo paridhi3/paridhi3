@@ -2,25 +2,18 @@
 
 ![banner](banner.png)
 
-Hello, I'm Paridhi. Data Scientist with expertise in building predictive models, insightful data visualizations, and deploying end-to-end solutions. 🚀📊✨
-
-<!--
-- Querying data using SQL.
-- Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau and Looker Studio.
-- Data analysis and reporting using Google Sheets and Excel.
+Hello, I'm Paridhi. An aspiring Software Developer with expertise in C++, Python, Java, and web development using Express, and a keen interest in Machine Learning.
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/paridhi3).
 
-### 🛠️ Tools
+### 🛠️ Skills  
 
-- Language: SQL, Python
-- Database: Google BigQuery, PostgreSQL, MySQL
-- Visualization: Tableau, Looker Studio
-
--->
+- **Programming Languages:** C++, Java, Python, SQL  
+- **Databases:** MySQL, PostgreSQL  
+- **Web Development:** HTML, CSS, JavaScript, React, Express.js  
+- **Machine Learning & Data Analysis:** TensorFlow, Keras, Scikit-learn, NumPy, Pandas, Seaborn, Matplotlib  
 
 ### 👋🏻 Connect with Me
 
