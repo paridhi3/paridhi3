@@ -6,7 +6,7 @@ Hello, I'm Paridhi. An aspiring Software Developer with expertise in C++, Python
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/paridhi3).
+Welcome to my portfolio, where I showcase my [projects](portfolio.md).
 
 ### 🛠️ Skills  
 
