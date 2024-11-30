@@ -6,7 +6,6 @@ Welcome to my portfolio! Here, I document a summary of my projects.
 - [Express.js](#Express.js)
 - [Java](#Java)
 - [Machine Learning](#Machine-Learning)
-- [Tableau](#tableau)
 
 # Express.js
 
