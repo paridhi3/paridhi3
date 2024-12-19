@@ -1,6 +1,6 @@
 ## 🌻 Pleased to See You!
 
-![banner]()
+![banner](banner.png)
 
 Hello, I'm Paridhi. An aspiring Software Developer with expertise in C++, Python, Java, and web development using Express, and a keen interest in Machine Learning.
 
