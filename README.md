@@ -1,7 +1,7 @@
 ## 🌻 Pleased to See You!
 
 <!--![banner](banner2.png)-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00AEEF&width=435&lines=Hey+there!+I'm+Paridhi+👋;I'm+a+Developer!+🚀;Welcome+to+my+profile!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00AEEF&width=435&lines=Hey+there!+I'm+Paridhi+👋;I'm+a+Developer!+🚀;Welcome+to+my+profile!)
 
 Hello, I'm Paridhi. An aspiring Software Developer with expertise in C++, Python, Java, and web development using Express, and a keen interest in Machine Learning.
 
