@@ -17,6 +17,8 @@ Welcome to my portfolio, where I showcase my [projects](portfolio.md).
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paridhi3&theme=radical&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paridhi3&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paridhi3&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 
 
