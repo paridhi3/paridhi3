@@ -22,6 +22,7 @@ Welcome to my portfolio, where I showcase my [projects](portfolio.md).
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -37,3 +38,11 @@ Welcome to my portfolio, where I showcase my [projects](portfolio.md).
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paridhi3&theme=radical&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paridhi3&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paridhi3&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=paridhi3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Profile View Counter](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat)
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F70000&width=435&lines=Hey+there!+I'm+YourName+👋;I'm+a+Developer!+🚀;Welcome+to+my+profile!)
+![GitHub Snake](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg)
+
+
