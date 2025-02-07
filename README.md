@@ -23,5 +23,4 @@ Welcome to my portfolio, where I showcase my [projects](portfolio.md).
 
 
 ### 👋🏻 Connect with Me
-
-- [Linkedin](https://www.linkedin.com/in/paridhi3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paridhi3/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/ParidhiAga93763)
