@@ -15,6 +15,11 @@ Welcome to my portfolio, where I showcase my [projects](portfolio.md).
 - **Web Development:** HTML, CSS, JavaScript, React, Express.js  
 - **Machine Learning & Data Analysis:** TensorFlow, Keras, Scikit-learn, NumPy, Pandas, Seaborn, Matplotlib  
 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=false)
+
+
+
 ### 👋🏻 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/paridhi3/)
