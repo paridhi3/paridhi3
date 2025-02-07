@@ -38,12 +38,15 @@ Welcome to my portfolio, where I showcase my [projects](portfolio.md).
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 
-
+### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paridhi3&theme=radical&hide_border=false)
+
+### 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paridhi3&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paridhi3&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paridhi3&theme=radical&hide_border=false&include_all_commits=true&count_private=true)-->
+
+### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=paridhi3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-![Profile View Counter](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat)
 
 
 
