@@ -16,7 +16,7 @@ Welcome to my portfolio, where I showcase my [projects](portfolio.md).
 - **Machine Learning & Data Analysis:** TensorFlow, Keras, Scikit-learn, NumPy, Pandas, Seaborn, Matplotlib  
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paridhi3&theme=radical&hide_border=false)
 
 
 
