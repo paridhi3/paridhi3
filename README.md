@@ -1,6 +1,7 @@
 ## 🌻 Pleased to See You!
 
-![banner](banner2.png)
+<!--![banner](banner2.png)-->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00AEEF&width=435&lines=Hey+there!+I'm+Paridhi+👋;I'm+a+Developer!+🚀;Welcome+to+my+profile!)
 
 Hello, I'm Paridhi. An aspiring Software Developer with expertise in C++, Python, Java, and web development using Express, and a keen interest in Machine Learning.
 
@@ -42,7 +43,6 @@ Welcome to my portfolio, where I showcase my [projects](portfolio.md).
 ![Profile View Counter](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat)
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F70000&width=435&lines=Hey+there!+I'm+YourName+👋;I'm+a+Developer!+🚀;Welcome+to+my+profile!)
 ![GitHub Snake](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg)
 
 
