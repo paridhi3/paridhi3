@@ -6,6 +6,8 @@
 
 Hello, I'm Paridhi. An aspiring Software Developer with expertise in C++, Python, Java, and web development using Express, and a keen interest in Machine Learning.
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat)
+
 ### 👋🏻 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paridhi3/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/ParidhiAga93763)
 
@@ -43,7 +45,5 @@ Welcome to my portfolio, where I showcase my [projects](portfolio.md).
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=paridhi3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat)
 
-
-![GitHub Snake](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg)
 
 
