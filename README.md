@@ -38,10 +38,10 @@ Welcome to my portfolio, where I showcase my [projects](portfolio.md).
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-
+<!--
 ### 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paridhi3&theme=github-dark)](https://git.io/streak-stats)
-
+-->
 ### 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paridhi3&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paridhi3&theme=radical&hide_border=false&include_all_commits=true&count_private=true)-->
