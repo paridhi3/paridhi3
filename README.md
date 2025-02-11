@@ -1,6 +1,6 @@
 ## 🌻 Pleased to See You!
 
-![banner](banner2.png)
+![banner](Paridhi agarwal.png)
 <!--
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&color=00AEEF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hey+there!+I'm+Paridhi;I'm+a+Developer!+🚀;Welcome+to+my+profile!)
 -->
