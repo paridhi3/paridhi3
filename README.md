@@ -9,14 +9,14 @@ Hello, I'm Paridhi. An aspiring Software Developer with expertise in C++, Python
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat)
 
-### 👋🏻 Connect with Me
+## 👋🏻 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paridhi3/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/ParidhiAga93763)
 
-### 📚 Projects
+## 📚 Projects
 
 Welcome to my portfolio, where I showcase my [projects](portfolio.md).
 
-### 🛠️ Skills  
+## 🛠️ Skills  
 
 - **Programming Languages:** C++, Java, Python, SQL  
 - **Databases:** MySQL, PostgreSQL  
@@ -39,14 +39,14 @@ Welcome to my portfolio, where I showcase my [projects](portfolio.md).
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 <!--
-### 🔥 GitHub Streak
+## 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paridhi3&theme=github-dark)](https://git.io/streak-stats)
 -->
-### 📊 Top Languages
+## 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paridhi3&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paridhi3&theme=radical&hide_border=false&include_all_commits=true&count_private=true)-->
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=paridhi3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
