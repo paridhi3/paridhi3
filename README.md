@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&color=00AEEF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hey+there!+I'm+Paridhi;I'm+a+Developer!+🚀;Welcome+to+my+profile!)
 -->
 
-Hello, I'm Paridhi. An aspiring Software Developer with expertise in C++, Python, Java, and web development using Express, and a keen interest in Machine Learning.
+Full Stack Developer with a strong foundation in Java, Spring Boot, and API development. I've built various projects and contributed to open-source. Eager to apply my skills in a collaborative environment. Currently open to full-time opportunities and freelance work. Let’s connect!
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat)
 
