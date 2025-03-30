@@ -23,7 +23,7 @@ Welcome to my portfolio! Here, I document a summary of my projects.
 
 | Project Link | Completion Date | Tools | Project Description |
 |---|---|---|---|
-| [Travel Booking System](https://github.com/paridhi3/TravelBookingSystem) | Mar 2025 | The Travel Booking System enables seamless booking of flights, trains, and buses with search, filters, authentication, seat selection, and automated availability management. Admins can manage transport and monitor bookings. |
+| [Travel Booking System](https://github.com/paridhi3/TravelBookingSystem) | Mar 2025 | Java, Spring Boot, Spring Security, React.js, MySQL | The Travel Booking System enables seamless booking of flights, trains, and buses with search, filters, authentication, seat selection, and automated availability management. Admins can manage transport and monitor bookings. |
 
 # Java
 
