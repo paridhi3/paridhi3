@@ -7,10 +7,7 @@
 
 Full Stack Developer with a strong foundation in Java, Spring Boot, and API development. I've built various projects and contributed to open-source. Eager to apply my skills in a collaborative environment. Currently open to full-time opportunities and freelance work. Let’s connect!
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat)
-
-# 👋🏻 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paridhi3/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/ParidhiAga93763)
+![Profile View Counter](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paridhi3/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/ParidhiAga93763)
 
 # 💼 Portfolio
 
