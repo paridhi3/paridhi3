@@ -3,9 +3,18 @@
 Welcome to my portfolio! Here, I document a summary of my projects. 
 
 ## 📚 Table of Contents
+- [Next.js](#Next.js)
 - [Express.js](#Express.js)
 - [Java](#Java)
 - [Machine Learning](#Machine-Learning)
+
+# Next.js
+
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| [PinDrop](https://github.com/paridhi3/PinDrop) | Apr 2025 | Next.js, PostgreSQL, Prisma, Google Maps API | A web application that shows all businesses delivering to a location. |
+
+***
 
 # Express.js
 
