@@ -11,8 +11,6 @@ Welcome to my portfolio! Here, I document a summary of my projects.
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| [CryptoLens](https://github.com/paridhi3/CryptoLens) | Jan 2025 | Express.js, EJS, PostgreSQL, body-parser, dotenv |  |
-| [Family Travel Tracker](https://github.com/paridhi3/Family-Travel-Tracker) | Jan 2025 | Express.js, EJS, PostgreSQL, body-parser, dotenv |  |
 | [World Flag Quiz](https://github.com/paridhi3/World-Flag-Quiz) | Oct 2024 | Express.js, EJS, PostgreSQL, body-parser, dotenv | A web application that quizzes users on world flags. This project is built with Node.js, Express, PostgreSQL, and EJS for templating. |
 | [World Capital Quiz](https://github.com/paridhi3/World-Capital-Quiz) | Oct 2024 | Express.js, EJS, PostgreSQL, body-parser, dotenv | A web application that quizzes users on world capitals. This project is built with Node.js, Express, PostgreSQL, and EJS for templating. |
 | [WordSphere](https://github.com/paridhi3/WordSphere) | Oct 2024 | Express.js, EJS, body-parser, dotenv | WordSphere is a blog web application developed using Node.js, Express.js, and EJS templating engine. It allows users to create, view, edit, and delete blog posts. |
