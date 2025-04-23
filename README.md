@@ -17,13 +17,16 @@ Welcome to my portfolio, where I showcase my [projects](portfolio.md).
 
 - **Programming Languages:** C++, Java, Python, SQL  
 - **Databases:** MySQL, PostgreSQL  
-- **Web Development:** HTML, CSS, JavaScript, React, Express.js  
+- **Web Development:** HTML, CSS, JavaScript, React, Express.js, Next.js
+- **Frameworks and Tools:** Spring Boot, Microservices,  Apache Kafka, Jenkins
 - **Machine Learning & Data Analysis:** TensorFlow, Keras, Scikit-learn, NumPy, Pandas, Seaborn, Matplotlib
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
