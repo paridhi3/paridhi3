@@ -42,10 +42,19 @@ Welcome to my portfolio! Here, I document a summary of my projects.
 
 ***
 
-# Machine Learning
+# DS/ML/AI
 
 | Project Link | Completion Date | Project Description |
 |---|---|---|
-| [Phishing-Domain-Detection](https://github.com/paridhi3/Phishing-Domain-Detection) | Aug 8 | The main goal is to predict whether the website domains are real or malicious. |
+| [Carbon Optimiser Agent](https://github.com/paridhi3/Carbon-Optimiser) | July 2025 | This project is an AI-powered assistant built using LangChain, Streamlit, and Azure OpenAI, designed to help users estimate and reduce their weekly carbon footprint. |
+| [Memory-Aware RAG QA Assistant](https://github.com/paridhi3/Memory-Aware-RAG-Q-A-Assistant) | July 2025 | This project is an AI-powered assistant built using LangChain, Streamlit, and Azure OpenAI, designed to remember PDFs and answer relevant questions. |
+| [Simple Embedding Search App](https://github.com/paridhi3/AI-POC) | June 2025 | This Streamlit app creates a simple embedding store using FAISS to insert document chunks and perform similarity searches using vector embeddings. It allows you to query over an HR Policy document of Genpact to retrieve the most relevant matches. |
+| [Chat with Multiple PDFs](https://github.com/paridhi3/Chat-with-Multiple-PDFs) | June 2025 | Chat with Multiple PDFs is a Streamlit application that enables users to interactively ask questions based on the content of multiple PDF files. It utilizes various natural language processing and generative AI techniques to provide accurate answers to user queries. |
+| [Ask2SQL](https://github.com/paridhi3/Ask2SQL) | June 2025 | Ask2SQL is a Streamlit web application that allows you to generate instant SQL queries by asking simple questions using Google Gemini Pro. It seamlessly converts your English questions into SQL queries and executes them on a SQLite database. |
+| [NutriSnap](https://github.com/paridhi3/NutriSnap) | June 2025 | NutriSnap is a web application designed to help users track their nutritional intake by analyzing food images and providing detailed information about the food's calorie content. It leverages the power of Google Gemini Pro Vision to recognize food items in images and calculate their calorie content. |
+| [Multi-Language Invoice Extractor](https://github.com/paridhi3/Invoice-Extractor) | June 2025 | The Multi-Language Invoice Extractor is a web application designed to extract information from invoice images. It utilizes the power of Google Gemini Pro Vision to analyze and understand invoices, providing answers to questions related to the content of the invoice. |
+| [Phishing-Domain-Detection](https://github.com/paridhi3/Phishing-Domain-Detection) | Jan 2025 | A machine learning-based phishing domain detection system that predicts whether a URL is malicious or legitimate with 97% accuracy using Random Forest Classifier. |
+| [Predict House Prices in India](https://github.com/paridhi3/Predict-House-Prices-in-India) | Sept 2024 | Detailed Analysis of House Prices in Urban India: Trends and Insights. |
+| [California House Price Prediction](https://github.com/paridhi3/california-housing/blob/main/california.ipynb) | July 2025 | Detailed Analysis of House Prices in California: Trends and Insights. |
 
 ***
