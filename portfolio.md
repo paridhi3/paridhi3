@@ -6,7 +6,7 @@ Welcome to my portfolio! Here, I document a summary of my projects.
 - [Next.js](#Next.js)
 - [Express.js](#Express.js)
 - [Java](#Java)
-- [Machine Learning](#Machine-Learning)
+- [DS/ML/AI](#DS/ML/AI)
 
 # Next.js
 
@@ -26,16 +26,11 @@ Welcome to my portfolio! Here, I document a summary of my projects.
 
 ***
 
-# Java Spring Boot
-
-| Project Link | Completion Date | Tools | Project Description |
-|---|---|---|---|
-| [Travel Booking System](https://github.com/paridhi3/TravelBookingSystem) | Mar 2025 | Java, Spring Boot, Spring Security, React.js, MySQL | The Travel Booking System enables seamless booking of flights, trains, and buses with search, filters, authentication, seat selection, and automated availability management. Admins can manage transport and monitor bookings. |
-
 # Java
 
 | Project Link | Completion Date | Tools | Project Description |
 |---|---|---|---|
+| [Travel Booking System](https://github.com/paridhi3/TravelBookingSystem) | Mar 2025 | Java, Spring Boot, Spring Security, React.js, MySQL | The Travel Booking System enables seamless booking of flights, trains, and buses with search, filters, authentication, seat selection, and automated availability management. Admins can manage transport and monitor bookings. |
 | [Online Voting System](https://github.com/paridhi3/Online-Voting-System) | Nov 2024 | Java, JSP, Servlets, MySQL | The Online Voting System streamlines voting by enabling secure, anonymous online voting. It features a login page, party symbols, and vote submission, storing voter data and results in a MySQL database. Built with the MVC design pattern, it ensures scalability and reliability. |
 | [Login-Registration Project](https://github.com/paridhi3/Login-Registration) | Nov 2024 | Java, JSP, Servlets, MySQL | A simple Java project for user login and registration system. |
 | [Weather Web App 🌦️](https://github.com/paridhi3/WeatherApp) | Nov 2024 | Java, JSP, Servlets | Simple weather web application built using Java, Servlets, JSP, HTML, CSS, and the OpenWeather API. The app allows users to search for weather information of a city, including temperature, humidity, wind speed, and weather condition. It utilizes the OpenWeather API to fetch real-time weather data. |
