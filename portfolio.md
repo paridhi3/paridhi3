@@ -12,7 +12,7 @@ Welcome to my portfolio! Here, I document a summary of my projects.
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| [PinDrop](https://github.com/paridhi3/PinDrop) | Apr 2025 | Next.js, PostgreSQL, Prisma, Google Maps API | A web application that shows all businesses delivering to a location. |
+| [PinDrop](https://github.com/paridhi3/PinDrop) | Apr 2025 | Next.js, PostgreSQL, Prisma, Google Maps API | A web application that allows users to enter their location (city name), and displays a list of businesses that currently deliver products or services to that location. It can include restaurants, grocery stores, pharmacies, florists, courier services, etc. |
 
 ***
 
