@@ -52,6 +52,5 @@ Welcome to my portfolio, where I showcase my [projects](portfolio.md).
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=paridhi3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!--
-https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/wwou5/introduction
-https://learn.deeplearning.ai/courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/lesson/agfnp/introduction
+https://vision.hack2skill.com/event/genaiexchangehackathon?utm_source=hack2skill&utm_medium=homepage
 -->
