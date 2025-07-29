@@ -53,4 +53,10 @@ Welcome to my portfolio, where I showcase my [projects](portfolio.md).
 
 <!--
 https://vision.hack2skill.com/event/genaiexchangehackathon?utm_source=hack2skill&utm_medium=homepage
+presentation: https://storage.googleapis.com/vision-hack2skill-production/innovator/USER00838192/1753613461098-ByteCraftedSahayakGoogleHackathon.pdf
+mobile app code: https://github.com/Vipul-2220/sahayak/tree/main
+mobile app demo: https://drive.google.com/file/d/111aSsPCzuIlqqZFg6BqaTSame_LHqF4g/view?usp=drive_link
+web app code: https://github.com/BytesCrafted/sahayakAI/tree/master
+web app demo: https://drive.google.com/file/d/1jQePD4EAXE4jzqfHU2DI1a8lExkA7rIY/view?usp=sharing
+agent api: https://github.com/ib565/Agentic-AI-Google-ADK
 -->
