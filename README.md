@@ -4,7 +4,9 @@
 <!--
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&color=00AEEF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hey+there!+I'm+Paridhi;I'm+a+Developer!+🚀;Welcome+to+my+profile!)
 -->
-
+<!--
+https://www.linkedin.com/learning/build-with-ai-create-custom-chatbots-with-n8n/building-a-custom-chat-bot?u=2201186
+-->
 Full Stack Developer with a strong foundation in Java, Spring Boot, and API development. I've built various projects and contributed to open-source. Eager to apply my skills in a collaborative environment. Currently open to full-time opportunities and freelance work. Let’s connect!
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paridhi3/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/ParidhiAga93763)
